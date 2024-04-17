@@ -14,10 +14,6 @@ const Resources = () => {
                         <iframe className='pdf' src="https://privatesbhtib-pdfwhisperer.hf.space"></iframe>
                     </div>
                 </div>
-                <div className="f-img-resources1">
-                    <img src="" alt="features1" />
-                </div>
-                <div className="text-box-feature-pdf"></div>
             </div>
             <div className="embed-model-falcon-main">
                 <div className="embed-model-falcon-outer">
@@ -25,10 +21,6 @@ const Resources = () => {
                         <iframe className='falcon' src="https://privatesbhtib-falcon-image-analyzer.hf.space"></iframe>
                     </div>
                 </div>
-                <div className="f-falcon-resources1">
-                    <img src="" alt="features2" />
-                </div>
-                <div className="text-box-feature-falcon"></div>
             </div>
             <Footer />
         </div>

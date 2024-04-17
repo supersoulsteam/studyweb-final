@@ -19,10 +19,10 @@ const Courses = () => {
         <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className="pgram-left">
-          <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className="pgram-left">
-          <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
       <div className="divider-main">
@@ -32,13 +32,13 @@ const Courses = () => {
       </div>
       <div className="pgram-right-main">
         <div className="pgram-right">
-          <iframe className="vid-pgram-right" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-right" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className="pgram-right">
-          <iframe  className="vid-pgram-right" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-right" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className="pgram-right">
-          <iframe  className="vid-pgram-right" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-right" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
       <div className="divider-main">
@@ -48,13 +48,13 @@ const Courses = () => {
       </div>
       <div className="pgram-left-main">
         <div className="pgram-left">
-          <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className="pgram-left">
-          <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <div className="pgram-left">
-          <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/9fQAGZKwUME?si=0EYWGTpV0YM9BfBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe className="vid-pgram-left" src="https://www.youtube.com/embed/i4EfDf8YEQY?si=nTJQKL1gSRzZzG9e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
       <div className="em-model-main">
