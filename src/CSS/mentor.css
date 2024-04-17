@@ -1,0 +1,152 @@
+.mentors-page-main-heading {
+    background: rgb(98, 91, 85);
+    background: linear-gradient(90deg, rgba(98, 91, 85, 1) 28%, rgba(108, 108, 107, 1) 36%, rgba(255, 255, 255, 1) 48%, rgba(255, 255, 255, 1) 49%, rgba(76, 76, 76, 1) 65%, rgba(83, 83, 86, 1) 69%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 6em;
+}
+
+.science {
+    margin: 14vh;
+}
+
+.science-head {
+
+    background: rgb(213, 0, 204);
+    background: linear-gradient(90deg, rgba(213, 0, 204, 1) 31%, rgba(209, 5, 200, 1) 44%, rgba(255, 255, 255, 1) 50%, rgba(252, 245, 252, 1) 52%, rgba(242, 0, 233, 1) 58%, rgba(211, 1, 203, 1) 68%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 16vh;
+}
+
+.com {
+    margin: 14vh;
+}
+
+.com-head {
+    background: rgb(0, 47, 213);
+    background: linear-gradient(90deg, rgba(0, 47, 213, 1) 31%, rgba(5, 153, 209, 1) 44%, rgba(255, 255, 255, 1) 48%, rgba(252, 245, 252, 1) 53%, rgba(0, 176, 242, 1) 58%, rgba(32, 1, 211, 1) 68%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 16vh;
+}
+
+.math {
+    margin-top: 14vh;
+}
+
+.math-head {
+    background: rgb(29, 213, 0);
+    background: linear-gradient(90deg, rgba(29, 213, 0, 1) 31%, rgba(5, 209, 32, 1) 44%, rgba(255, 255, 255, 1) 48%, rgba(252, 245, 252, 1) 53%, rgba(0, 242, 81, 1) 58%, rgba(0, 242, 81, 1) 71%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 16vh;
+}
+
+.programming {
+    margin: 14vh;
+}
+
+.programming-head {
+    background: rgb(194, 213, 0);
+    background: linear-gradient(90deg, rgba(194, 213, 0, 1) 31%, rgba(198, 209, 5, 1) 44%, rgba(255, 255, 255, 1) 48%, rgba(252, 245, 252, 1) 53%, rgba(208, 242, 0, 1) 58%, rgba(220, 242, 0, 1) 71%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 16vh;
+}
+
+.mentor-right {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10vh;
+    margin-top: 8vh;
+}
+
+.mentor-ai-right {
+    height: 90vh;
+    width: 45vw;
+    -webkit-box-shadow: -10px -11px 20px -4px rgba(224, 183, 130, 1);
+    -moz-box-shadow: -10px -11px 20px -4px rgba(224, 183, 130, 1);
+    box-shadow: -10px -11px 20px -4px rgba(224, 183, 130, 1);
+    overflow: hidden;
+}
+
+.sub-mentors {
+    height: 90vh;
+    width: 45vw;
+    border: none;
+}
+
+
+.features-mentor {
+    height: 90vh;
+    width: 30vw;
+    border: #fff solid 2px;
+    text-align: center;
+}
+
+.rating {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rate-text1,
+.rate-text2,
+.rate-text3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mentor-left {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10vh;
+    margin-top: 8vh;
+}
+
+.mentor-ai-left {
+    height: 90vh;
+    width: 45vw;
+    -webkit-box-shadow: 14px -14px 20px -4px rgba(224, 183, 130, 1);
+    -moz-box-shadow: 14px -14px 20px -4px rgba(224, 183, 130, 1);
+    box-shadow: 14px -14px 20px -4px rgba(224, 183, 130, 1);
+    overflow: hidden;
+}
+
+.features-mentor {
+    height: 90vh;
+    width: 30vw;
+    border: #fff solid 2px;
+    text-align: center;
+}
+
+.rating {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rate-text1,
+.rate-text2,
+.rate-text3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.mentor-left-left,.mentor-right-main{
+    margin-top: 16vh;
+    margin-bottom: 16vh;
+}

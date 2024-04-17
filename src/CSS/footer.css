@@ -1,0 +1,77 @@
+#container-home-footer {
+    margin-top: 15vh;
+    background-color: #161616;
+    height: 48vh;
+}
+
+.copy {
+    margin-top: 14vh;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 39%, rgba(255, 255, 255, 1) 56%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.footer-main {
+    display: flex;
+}
+
+.footer-left {
+    height: 30vh;
+    width: 50%;
+    text-align: center;
+}
+
+.footer-right {
+    height: 30vh;
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.address{
+    margin-bottom: 5vh;
+    font-size: 1.5em;
+}
+
+.social {
+    margin-top: 6vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.facebook,
+.instagram,
+.linkedin,
+.youtube,
+.social-img {
+    height: 14vh;
+    width: 7vw;
+    border-radius: 100%;
+}
+
+.resources,
+.pages,
+.company {
+    height: 30vh;
+    width: 33%;
+    text-transform: uppercase;
+}
+
+li {
+    margin: 4.5vh;
+    color: #fff;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.heading-foot {
+    background: rgb(243, 141, 0);
+    background: linear-gradient(90deg, rgba(243, 141, 0, 1) 37%, rgba(255, 255, 255, 1) 63%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}

@@ -1,0 +1,29 @@
+.mentor-left{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 10vh;
+    margin-top: 8vh;
+}
+.mentor-ai-left{
+    height: 45vh;
+    width: 45vw;
+    border: #fff solid 2px;
+    box-shadow: #fff 3vh -3vh;
+}
+.features-mentor{
+    height: 45vh;
+    width: 30vw;
+    border: #fff solid 2px;
+    text-align: center;
+}
+.rating{
+    display: flex;
+    justify-content: space-evenly;
+}
+.rate-text1,.rate-text2,.rate-text3{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}

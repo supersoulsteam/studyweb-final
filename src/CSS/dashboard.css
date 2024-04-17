@@ -1,0 +1,8 @@
+.container-home-dashboard{
+   text-align: center;
+}
+.main-dashboard{
+    margin: 5vh 10vw;
+    border: red solid 2px;
+    height: 80vh;
+}

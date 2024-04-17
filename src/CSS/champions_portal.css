@@ -1,0 +1,168 @@
+.tcp {
+    margin-top: 8vh;
+    font-size: 3em;
+    text-align: center;
+    background: rgb(98, 91, 85);
+    background: linear-gradient(90deg, rgba(98, 91, 85, 1) 28%, rgba(108, 108, 107, 1) 36%, rgba(255, 255, 255, 1) 48%, rgba(255, 255, 255, 1) 49%, rgba(76, 76, 76, 1) 65%, rgba(83, 83, 86, 1) 69%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.cp-main {
+    display: flex;
+    justify-content: center;
+    margin-top: 16vh;
+}
+
+.cp-ai-main {
+    margin: 5vh;
+    height: 180vh;
+    width: 80vw;
+    -webkit-box-shadow: 1px -13px 19px -1px rgb(217, 6, 254);
+    -moz-box-shadow: 1px -13px 19px -1px rgb(217, 6, 254);
+    box-shadow: 1px -13px 19px -1px rgb(217, 6, 254);
+}
+
+.cp-ai {
+    height: 179.6vh;
+    width: 79.75vw;
+    border: none;
+}
+
+.cp-feature-head {
+    margin-top: 8vh;
+    text-align: center;
+    background: rgb(195, 185, 31);
+    background: linear-gradient(90deg, rgba(195, 185, 31, 1) 34%, rgba(195, 185, 31, 1) 43%, rgba(255, 255, 255, 1) 50%, rgba(255, 249, 249, 1) 53%, rgba(195, 185, 31, 1) 58%, rgba(195, 185, 31, 1) 67%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 3em;
+    margin-bottom: 20vh;
+}
+
+.cp-feature-left,
+.cp-feature-right {
+    display: flex;
+    margin-left: 16vh;  
+    margin-right: 16vh;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+
+.cp-img-left,
+.cp-img-right {
+    height: 60vh;
+    width: 60vw;
+    -webkit-box-shadow: -1px 0px 15px 10px rgba(255, 255, 255, 1);
+    -moz-box-shadow: -1px 0px 15px 10px rgba(255, 255, 255, 1);
+    box-shadow: -1px 0px 15px 10px rgba(255, 255, 255, 1);
+}
+
+.cp-img-text-left {
+    height: 60vh;
+    width: 30vw;
+    margin-left: 10vh;
+    font-size: 1.6em;
+}
+
+.cp-img-text-right {
+    height: 60vh;
+    width: 30vw;
+    margin-right: 10vh;
+    font-size: 1.6em;
+}
+
+.cp-image {
+    height: 60vh;
+    width: 60vw;
+}
+
+.cp-h-i-w-text {
+    margin-top: 16vh;
+    margin-bottom: 16vh;
+    text-align: center;
+    font-size: 3em;
+    background: rgb(195, 185, 31);
+    background: linear-gradient(90deg, rgba(195, 185, 31, 1) 34%, rgba(195, 185, 31, 1) 43%, rgba(255, 255, 255, 1) 50%, rgba(255, 249, 249, 1) 53%, rgba(195, 185, 31, 1) 58%, rgba(195, 185, 31, 1) 67%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.cp-t-b {
+    margin: 14vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cp-box {
+    height: 44vh;
+    width: 22vw;
+    border: #fff solid 2px;
+    -webkit-box-shadow: 0px 0px 20px 8px rgba(0, 219, 0, 1);
+    -moz-box-shadow: 0px 0px 20px 8px rgba(0, 219, 0, 1);
+    box-shadow: 0px 0px 20px 8px rgba(0, 219, 0, 1);
+}
+
+
+.cp-h-i-w-text-main {
+    margin-top: 8vh;
+    display: flex;
+    justify-content: center;
+}
+
+.cp-hiwt {
+    border: greenyellow solid 3px;
+    height: 70vh;
+    width: 80vw;
+}
+
+.cp-advantage-main {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.cp-advantage-main-heading {
+    font-size: 3em;
+    text-align: center;
+    background: rgb(195, 185, 31);
+    background: linear-gradient(90deg, rgba(195, 185, 31, 1) 34%, rgba(195, 185, 31, 1) 43%, rgba(255, 255, 255, 1) 50%, rgba(255, 249, 249, 1) 53%, rgba(195, 185, 31, 1) 58%, rgba(195, 185, 31, 1) 67%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-top: 14vh;
+    margin-bottom: 14vh;
+}
+
+.cp-adv-box {
+    margin-top: 6vh;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cp-box1,
+.cp-box2 {
+    height: 30vh;
+    width: 35vw;
+    border: #fff solid 2px;
+    -webkit-box-shadow: 0px 0px 47px -8px rgba(255, 255, 255, 1);
+    -moz-box-shadow: 0px 0px 47px -8px rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 47px -8px rgba(255, 255, 255, 1);
+}
+
+.cp-adv-text-main {
+    margin-top: 16vh;
+    margin-bottom: 20vh;
+}
+
+.cp-adv-text {
+    margin-left: 5vh;
+    margin-right: 5vh;
+    font-size: 1.5em;
+}
+
+.cp-adv1,
+.cp-adv2,
+.cp-adv3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 6vh;
+}

@@ -1,0 +1,83 @@
+.rt {
+    background: rgb(98, 91, 85);
+    background: linear-gradient(90deg, rgba(98, 91, 85, 1) 28%, rgba(108, 108, 107, 1) 36%, rgba(255, 255, 255, 1) 48%, rgba(255, 255, 255, 1) 49%, rgba(76, 76, 76, 1) 65%, rgba(83, 83, 86, 1) 69%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    text-align: center;
+    font-size: 4em;
+    margin-top: 12vh;
+}
+.embed-model-pdf-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+}
+.embed-model-pdf-outer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.embed-model-pdf {
+    height: 120vh;
+    width: 80vw;
+    -webkit-box-shadow: 0px 0px 16px 15px rgba(5, 222, 255, 1);
+    -moz-box-shadow: 0px 0px 16px 15px rgba(5, 222, 255, 1);
+    box-shadow: 0px 0px 16px 15px rgba(5, 222, 255, 1);
+}
+.pdf{
+    height: 120vh;
+    width: 80vw;
+}
+.f-img-resources1{
+    border: white 2px solid;
+    height: 30vh;
+    width: 90vw;
+    margin-bottom: 10vh;
+}
+.text-box-feature-pdf{
+    clip-path: polygon(0 0, 100% 0%, 67% 80%, 0 90%);
+    border: white 2px solid;
+    height: 35vh;
+    background-color: aqua;
+    width: 90vw;
+    margin-bottom: 6vh;
+}
+.embed-model-falcon-main{
+    margin-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.embed-model-falcon-outer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.embed-model-falcon {
+    height: 120vh;
+    width: 80vw;
+    -webkit-box-shadow: 0px 0px 16px 15px rgba(5, 222, 255, 1);
+    -moz-box-shadow: 0px 0px 16px 15px rgba(5, 222, 255, 1);
+    box-shadow: 0px 0px 16px 15px rgba(5, 222, 255, 1);
+}
+.falcon{
+    height: 120vh;
+    width: 80vw;
+}
+.f-falcon-resources1{
+    border: white 2px solid;
+    height: 30vh;
+    width: 90vw;
+    margin-bottom: 10vh;
+}
+.text-box-feature-falcon{
+    clip-path: polygon(0 0, 100% 0%, 67% 80%, 0 90%);
+    border: white 2px solid;
+    height: 35vh;
+    background-color: aqua;
+    width: 90vw;
+    margin-bottom: 10vh;
+}

@@ -1,0 +1,29 @@
+.faq-main{
+    margin: 8vh;
+}
+.faq-head{
+    text-align: center;
+    color: #FFD23F;
+}
+.main{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4em;
+    box-shadow: aqua  0.5vh 0.3vh;
+    color: #fff;
+    margin: 4vh;
+}
+.icon{
+    background-color: bisque;   
+    transition: all 1s; 
+}
+.icon:hover{
+    background-color: aqua;
+    cursor: pointer;
+}
+.answer{
+    color: #FFD23F;
+    margin: 4vh;
+    font-size: 1.4em;
+}

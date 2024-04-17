@@ -1,0 +1,54 @@
+.t1 {
+    text-align: center;
+
+}
+
+.mentor-chat {
+    height: 150vh;
+}
+
+.main-mentor1,
+.main-mentor2,
+.main-mentor3 {
+    margin-top: 5vh;
+    height: 45vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.mentor1,
+.mentor2,
+.mentor3 {
+    height: 30vh;
+    width: 15vw;
+    border: #fff solid 2px;
+    border-radius: 100%;
+}
+
+.show1,
+.show2,
+.show3 {
+    height: 35vh;
+    width: 40vw;
+    border: #fff solid 1px;
+}
+
+.chat1,
+.chat2,
+.chat3 {
+    border: red solid 2px;
+    display: flex;
+}
+
+textarea {
+    resize: none;
+    width: 90%;
+}
+
+.submit1,
+.submit2,
+.submit3 {
+    width: 10%;
+    padding: 1vh;
+}

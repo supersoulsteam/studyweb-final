@@ -1,0 +1,23 @@
+.container-home-features{
+    height: 110vh;
+    margin-top: 10vh;
+    text-align: center;
+}
+.main-features{
+    height: 80vh;
+    margin-top: 1vh;
+}
+.features1,.features2{
+    height: 45vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5vh;
+}
+.features{
+    width: 20vw;
+    height: 38vh;
+}
+.f-img-home{
+    width: 20vw;
+    height: 38vh;
+}

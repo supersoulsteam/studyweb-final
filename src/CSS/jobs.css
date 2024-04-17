@@ -1,0 +1,30 @@
+.main-text {
+    text-align: center;
+    font-size: 2.5em;
+    background: rgb(255, 254, 254);
+    background: radial-gradient(circle, rgba(255, 254, 254, 1) 0%, rgba(221, 218, 218, 1) 18%, rgba(69, 68, 68, 1) 97%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-top: 14vh;
+    margin-bottom: 14vh;
+}
+
+.job-finder {
+    display: flex;
+    justify-content: center;
+}
+
+.job-search-main {
+    margin: 5vh;
+    height: 269vh;
+    width: 75vw;
+    -webkit-box-shadow: -1px -11px 14px 6px rgba(20, 102, 255, 1);
+    -moz-box-shadow: -1px -11px 14px 6px rgba(20, 102, 255, 1);
+    box-shadow: -1px -11px 14px 6px rgba(20, 102, 255, 1);
+}
+
+.job-search {
+    height: 268.7vh;
+    border: none;
+    width: 74.7vw;
+}
