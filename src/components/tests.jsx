@@ -9,7 +9,7 @@ const Tests = () => {
     <div className="tests-main">
       <Navbar />
       <div className="tg">
-        <h1>Test Generation</h1>
+        <h1>TEST GENERATION</h1>
       </div>
       <div className="test-main">
         <div className="test-ai-main">

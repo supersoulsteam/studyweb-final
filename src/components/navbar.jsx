@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import '../CSS/navbar.css'
 import Team_logo from "../assets/Team_logo.jpg"
-import {SignInButton, UserButton } from "@clerk/clerk-react";
+import {SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/clerk-react";
 const Navbar = () => {
     return (
         <div className="container-navbar">
@@ -14,11 +14,16 @@ const Navbar = () => {
                     <Link to="/about"><button className="nav-btn">ABOUT US</button></Link>
                     <Link to="/career"><button className="nav-btn">COUNSELLOR</button></Link>
                     <Link to="/tests"><button className="nav-btn">TESTS</button></Link>
-                    <Link to="/champions_portal"><button className="nav-btn">CHAMPIONS PORTAL</button></Link>
+                    <Link to="/champions_portal"><button className="nav-btn">INTERVIEW PREP</button></Link>
                     <Link to="/resources"><button className="nav-btn">RESOURCES</button></Link>
                     <Link to="/jobs"><button className="nav-btn">JOBS</button></Link>
-                    <SignInButton className="l" mode="modal" redirectUrl="/courses"/>
+                    <SignedOut>
+                    <SignInButton className="l" mode="modal" redirectUrl="/"/>
+                    </SignedOut>
+                    <SignedIn>
                     <UserButton/>
+                    </SignedIn>
+                   
                 </div>
             </header>
         </div>

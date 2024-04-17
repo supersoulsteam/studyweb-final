@@ -11,7 +11,7 @@ const Resources = () => {
             <div className="embed-model-pdf-main">
                 <div className="embed-model-pdf-outer">
                     <div className="embed-model-pdf">
-                        <iframe className='pdf' src="https://privatesbhtib-pdfwhisperer.hf.space"></iframe>
+                        {/* <iframe className='pdf' src="https://privatesbhtib-pdfwhisperer.hf.space"></iframe> */}
                     </div>
                 </div>
                 <div className="f-img-resources1">

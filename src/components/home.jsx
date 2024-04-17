@@ -15,8 +15,6 @@ const Home = () => {
      <Model/>
      <Features/>
      <Video_solution/>
-     <Dashboard/>
-     <Mentor_chat/>
      <Success/>
      <FAQs/>
      <Footer/>

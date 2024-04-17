@@ -4,14 +4,10 @@ import '../CSS/video_solution.css'
 const Video_solution = () => {
   return (
     <div className="container-home-vid">
-      <div className="btn">
-        <Link><button className="vid-btn">PROBLEM</button></Link>
-        <Link><button className="vid-btn">HINT</button></Link>
-        <Link><button className="vid-btn">SOLUTION</button></Link>
-      </div>
+ 
       <div className="main-solution">
         <div className="text">
-          Text solution
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit illum mollitia tempore consequatur qui exercitationem fugit, totam quidem obcaecati, soluta cupiditate nam aspernatur sequi animi repellendus voluptas rerum libero deleniti nisi natus minus, sapiente architecto expedita. Ab aperiam iure culpa cupiditate, voluptatibus ipsa nobis molestiae esse optio consequuntur itaque nesciunt.
         </div>
         <div className="video">
           {/* <video className="vid" autoPlay muted controls loop>

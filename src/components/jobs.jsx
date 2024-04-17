@@ -6,7 +6,7 @@ const Jobs = () => {
     <div className="jobs-main">
       <Navbar/>
       <div className="main-text">
-        <h1>Explore Opportunities & Find Your Next Career Move By Our Job Search Engine</h1>
+        <h1>Automated Realtime Job Search</h1>
       </div>
       <div className="job-finder">
         <div className="job-search-main">
