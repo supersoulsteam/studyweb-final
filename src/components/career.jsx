@@ -1,6 +1,7 @@
 import Footer from "./footer"
 import "../CSS/career.css"
 import e from "../assets/e.gif"
+import s from "../assets/s.pdf"
 import Navbar from "./navbar"
 const Career = () => {
   return (
@@ -43,28 +44,13 @@ const Career = () => {
           </div>
         </div>
       </div>
-      <div className="c-h-i-w-main">
-        <div className="c-h-i-w-text">
-          <h1>HOW IT WORKS ?</h1>
-        </div>
-        <div className="c-t-b">
-          <div className="c-box"></div>
-          <div className="c-box"></div>
-          <div className="c-box"></div>
-        </div>
-        <div className="c-h-i-w-text-main">
-          <div className="c-hiwt">
-           
-          </div>
-        </div>
-      </div>
       <div className="c-citation-main">
         <div className="c-citation-main-heading">
           <h1>ADVANTAGES</h1>
         </div>
         <div className="c-citation-iframe-main">
           <div className="c-citation-outer">
-            {/* <iframe className="c-citation-iframe" src={s}></iframe> */}
+            <iframe className="c-citation-iframe" src={s}></iframe>
           </div>
         </div>
       </div>

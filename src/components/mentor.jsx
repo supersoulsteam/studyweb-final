@@ -10,16 +10,14 @@ const Mentor = () => {
       </div>
       <div className="science">
         <div className="science-head">
-          <h1>Science Mentors</h1>
+          <h1>SCIENCE MENTORS</h1>
         </div>
         <div className='mentor-left-main'>
           <div className="mentor-left">
             <div className="mentor-ai-left">
               <iframe className="sub-mentors" src="https://privatesbhtib-physics-mentor.hf.space"></iframe>
             </div>
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+           
           </div>
           <div className="rating-main">
             <div className="rating">
@@ -40,9 +38,7 @@ const Mentor = () => {
         </div>
         <div className='mentor-right-main'>
           <div className="mentor-right">
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+           
             <div className="mentor-ai-right">
               <iframe className="sub-mentors" src="https://supersouls2-chemistrymentor.hf.space"></iframe>
             </div>
@@ -69,9 +65,7 @@ const Mentor = () => {
             <div className="mentor-ai-left">
               <iframe className="sub-mentors" src="https://privatesbhtib-biology-mentor.hf.space"></iframe>
             </div>
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+          
           </div>
           <div className="rating-main">
             <div className="rating">
@@ -93,13 +87,11 @@ const Mentor = () => {
       </div>
       <div className="com">
         <div className="com-head">
-          <h1>Commerce and Arts Mentors</h1>
+          <h1>COMMERCE AND ARTS MENTORS</h1>
         </div>
         <div className='mentor-right-main'>
           <div className="mentor-right">
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+            
             <div className="mentor-ai-right">
               <iframe className="sub-mentors" src="https://privatesbhtib-commerce-and-arts-mentor.hf.space"></iframe>
             </div>
@@ -126,9 +118,7 @@ const Mentor = () => {
             <div className="mentor-ai-left">
               <iframe className="sub-mentors" src="https://privatesbhtib-english-mentor.hf.space"></iframe>
             </div>
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+            
           </div>
           <div className="rating-main">
             <div className="rating">
@@ -151,13 +141,11 @@ const Mentor = () => {
 
       <div className="math">
         <div className="math-head">
-          <h1>Mathematics Mentor</h1>
+          <h1>MATHEMATICS MENTOR</h1>
         </div>
         <div className='mentor-right-main'>
           <div className="mentor-right">
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+          
             <div className="mentor-ai-right">
               <iframe className="sub-mentors" src="https://privatesbhtib-maths-mentor.hf.space"></iframe>
             </div>
@@ -181,16 +169,14 @@ const Mentor = () => {
         </div>
       </div><div className="programming">
         <div className="programming-head">
-          <h1>Programming Mentor</h1>
+          <h1>PROGRAMMING MENTOR</h1>
         </div>
         <div className='mentor-left-main'>
           <div className="mentor-left">
             <div className="mentor-ai-left">
               <iframe className="sub-mentors" src="https://privatesbhtib-programming-mentor.hf.space"></iframe>
             </div>
-            <div className="features-mentor">
-              <h2>FEATURES</h2>
-            </div>
+          
           </div>
           <div className="rating-main">
             <div className="rating">
