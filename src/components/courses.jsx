@@ -60,7 +60,7 @@ const Courses = () => {
       </div>
       <div className="em-model-main">
         <div className="em-model">
-          <iframe className="web" src="https://privatesbhtib-webwanderer.hf.space"></iframe>
+          {/* <iframe className="web" src="https://privatesbhtib-webwanderer.hf.space"></iframe> */}
         </div>
       </div>
       <Footer />

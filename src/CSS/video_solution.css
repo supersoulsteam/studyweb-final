@@ -1,5 +1,15 @@
 .container-home-vid {
-    margin-top: 5vh;
+    margin-top: 16vh;
+    margin-bottom: 16vh;
+}
+
+.container-home-vid h1{
+    text-align: center;
+    font-size: 4em;
+    background: rgb(98, 91, 85);
+    background: linear-gradient(90deg, rgb(68, 248, 8) 28%, rgb(216, 216, 56) 36%, rgba(255, 255, 255, 1) 48%, rgb(4, 234, 226) 49%, rgb(5, 93, 217) 65%, rgb(11, 255, 52) 69%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 
 .btn {
@@ -7,27 +17,18 @@
     justify-content: center;
 }
 
-.vid-btn {
-    font-size: 1.5em;
-    color: #fff;
-    background: transparent;
-    border: greenyellow solid 1px;
-    padding: 2vh 15vh;
-    cursor: pointer;
-    text-align: center;
-}
-
 .main-solution {
     height: 90vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 4vh;
 }
 
 .text {
     height: 70vh;
     width: 35vw;
-    font-size: larger;
+    font-size: 2.2em;
     text-align: center;
 }
 

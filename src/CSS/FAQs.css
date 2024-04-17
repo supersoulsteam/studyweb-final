@@ -4,6 +4,8 @@
 .faq-head{
     text-align: center;
     color: #FFD23F;
+    font-size: 2em;
+    margin-bottom: 10vh;
 }
 .main{
     background-color: grey;

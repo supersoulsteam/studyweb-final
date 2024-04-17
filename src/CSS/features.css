@@ -1,7 +1,16 @@
 .container-home-features{
     height: 110vh;
-    margin-top: 10vh;
+    margin-top: 4vh;
     text-align: center;
+    margin-bottom: 20vh;
+}
+.container-home-features h1{
+    font-size: 5em;
+    margin-top: 16vh;
+    background: rgb(98, 91, 85);
+    background: linear-gradient(90deg, rgb(188, 214, 180) 28%, rgb(19, 97, 193) 36%, rgba(255, 255, 255, 1) 48%, rgb(87, 251, 245) 49%, rgb(5, 93, 217) 65%, rgb(245, 241, 10) 69%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
 }
 .main-features{
     height: 80vh;
@@ -14,10 +23,10 @@
     padding-top: 5vh;
 }
 .features{
-    width: 20vw;
-    height: 38vh;
+    width: 30vw;
+    height: 50vh;
 }
 .f-img-home{
-    width: 20vw;
-    height: 38vh;
+    width: 30vw;
+    height: 50vh;
 }

@@ -1,18 +1,18 @@
-import { Link } from "react-router-dom"
+// import { Link } from "react-router-dom"
 import '../CSS/video_solution.css'
-
+import trailer from '../assets/trailer.mp4'
 const Video_solution = () => {
   return (
     <div className="container-home-vid">
- 
+      <h1>EXPLORE OUR FEATURES</h1>
       <div className="main-solution">
         <div className="text">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit illum mollitia tempore consequatur qui exercitationem fugit, totam quidem obcaecati, soluta cupiditate nam aspernatur sequi animi repellendus voluptas rerum libero deleniti nisi natus minus, sapiente architecto expedita. Ab aperiam iure culpa cupiditate, voluptatibus ipsa nobis molestiae esse optio consequuntur itaque nesciunt.
+        Our AI mentor platform integrates PDF Whisperer for content analysis. It offers personalized guidance from AI mentors for job search, tests, and interview prep. Users can access tailored resources to enhance skills and navigate career challenges efficiently thus optimizing their preparation and performance in a concise, user-friendly interface.
         </div>
         <div className="video">
-          {/* <video className="vid" autoPlay muted controls loop>
+          <video className="vid" autoPlay muted controls loop>
             <source src={trailer} />
-          </video> */}
+          </video>
         </div>
       </div>
     </div>

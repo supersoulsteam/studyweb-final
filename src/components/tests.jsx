@@ -1,6 +1,6 @@
 import Footer from "./footer"
 import '../CSS/tests.css'
-import e from "../assets/e.png"
+import e from "../assets/e.gif"
 import s from "../assets/s.pdf"
 import Navbar from "./navbar"
 
@@ -24,10 +24,10 @@ const Tests = () => {
           <div className="test-img-left">
             <img className="test-image" src={e} alt="" />
           </div>
-          <div className="test-img-text-left">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi doloribus repudiandae illum velit libero consequatur minus, dicta et quo hic impedit ratione corrupti error iusto maxime tempora quia rem! Repellendus, repudiandae ad fuga quam, aut voluptatibus sequi voluptatem quae velit voluptate aperiam assumenda, ab alias. Velit quasi autem distinctio explicabo?.</div>
+          <div className="test-img-text-left">High-end systems for AI model development feature robust CPUs, specialized accelerators like GPUs and TPUs, and ample memory. These architectures excel at handling complex computations, enabling rapid iteration and experimentation in AI research. Cloud platforms offer scalable infrastructure, facilitating efficient development and deployment of AI solutions. .</div>
         </div>
         <div className="test-feature-right">
-          <div className="test-img-text-right">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam odit consequatur voluptatibus cumque voluptas ea deleniti possimus eveniet obcaecati qui nemo maiores temporibus, eligendi saepe molestiae id accusamus delectus? Iusto, cum amet? Labore ducimus ratione tempora quibusdam dolore maxime nisi porro, placeat fugit. Maiores facilis voluptas obcaecati fuga reprehenderit repellat!</div>
+          <div className="test-img-text-right">Achieving extremely fast response times in AI model development hinges on leveraging high-performance computing resources and optimizing workflows. Specialized hardware accelerators like GPUs and TPUs enable swift model training and inference, while parallel processing techniques and distributed computing frameworks further enhance speed and efficiency. Additionally, employing optimized algorithms, model architectures, streamlining the development pipeline.</div>
           <div className="test-img-right">
             <img className="test-image" src={e} alt="" />
           </div>
@@ -36,10 +36,10 @@ const Tests = () => {
           <div className="test-img-left">
             <img className="test-image" src={e} alt="" />
           </div>
-          <div className="test-img-text-left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae maiores rem facilis eveniet voluptatum eum maxime deserunt architecto accusantium ut vitae nostrum, labore excepturi! Nisi architecto rerum tenetur non illum, fugiat voluptatibus ab sunt officia sapiente aperiam. Debitis, laborum voluptates provident eos dolorem, minima neque incidunt, corporis culpa unde consequatur!.</div>
+          <div className="test-img-text-left">In AI mentor platforms, tensor processing is taught through theory, hands-on exercises, projects, and community support. Users learn tensor fundamentals, manipulate tensors using Python and libraries like TensorFlow, and apply them to real-world problems. Projects and challenges deepen understanding, while forums facilitate collaboration. Feedback mechanisms assess users' proficiency, guiding their learning journey.</div>
         </div>
         <div className="test-feature-right">
-          <div className="test-img-text-right">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis rem nostrum facere vitae a cum recusandae architecto id beatae. Reprehenderit, modi! Libero itaque magnam rem repudiandae, fugiat alias facere est eos doloribus laborum accusamus atque corporis voluptatum esse eius! Blanditiis incidunt ad ut animi dolorum nihil sint laborum repellendus voluptates.</div>
+          <div className="test-img-text-right">User-friendly interfaces in AI mentor platforms prioritize intuitive navigation, clear content organization, and interactive features. They offer easy access to learning resources such as tutorials, lectures, and exercises, with seamless integration of programming environments for hands-on practice. Personalized learning paths cater to individual needs, while progress tracking and feedback mechanisms enhance engagement.</div>
           <div className="test-img-right">
             <img className="test-image" src={e} alt="" />
           </div>
@@ -62,7 +62,7 @@ const Tests = () => {
       </div>
       <div className="test-citation-main">
         <div className="test-citation-main-heading">
-          <h1>CITATION</h1>
+          <h1>ADVANTAGES</h1>
         </div>
         <div className="test-citation-iframe-main">
           <div className="test-citation-outer">

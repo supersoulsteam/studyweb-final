@@ -52,7 +52,7 @@
 
 .c-img-left,
 .c-img-right {
-    height: 60vh;
+    height: 70vh;
     width: 60vw;
     -webkit-box-shadow: -1px 0px 15px 10px rgba(255, 255, 255, 1);
     -moz-box-shadow: -1px 0px 15px 10px rgba(255, 255, 255, 1);
@@ -60,15 +60,21 @@
 }
 
 .c-img-text-left {
-    height: 60vh;
+    height: 70vh;
     width: 30vw;
     margin-left: 10vh;
+    font-size: 1.4em;
+    text-align: left;
+    font-weight: bold;
 }
 
 .c-img-text-right {
-    height: 60vh;
+    height: 70vh;
     width: 30vw;
-    margin-right: 10vh;
+    margin-right: 3vh;
+    font-size: 1.4em;
+    text-align: left;
+    font-weight: bold;
 }
 
 .c-image {

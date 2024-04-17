@@ -1,10 +1,14 @@
 .container-home-success {
-    margin-top: 10vh;
+    margin-top: 14vh;
+    margin-bottom: 20vh;
     height: 65vh;
+
 }
 
-.tweet1 {
+.tweet1 h1 {
     text-align: center;
+    font-size: 3em;
+    margin-bottom: 10vh;
 }
 .tweet2 {
     height: 26vh;
